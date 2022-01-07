@@ -34,7 +34,7 @@ class ViewController: UIViewController {
     }
     @IBAction func firstChildButton(_ sender: UIButton) {
         print("hello from firstChild button ")
-        
+        // initial Value
     }
     
     @IBAction func TwoChildButton(_ sender: UIButton) {
